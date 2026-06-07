@@ -34,6 +34,6 @@ Use the included `render.yaml` blueprint, or configure a Static Site manually:
 
 - Profile, experience, languages, and training cards are in `src/App.jsx`.
 - Colors, typography, layout, and responsive styles are in `src/styles.css`.
-- Veronika's portrait is stored at `public/images/veronika-portrait.png`.
+- Veronika's portrait is served from `public/images/veronika-portrait.webp`.
 - Add future training items to the `trainingCards` array. Portfolio filters are generated automatically from each card's `category`.
-- The custom hero artwork is stored at `public/images/learning-art.png`.
+- The custom hero artwork is served from `public/images/learning-art.webp`.

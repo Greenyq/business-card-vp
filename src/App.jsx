@@ -190,8 +190,10 @@ function AboutPage() {
         <div className="hero-visual reveal delay-1">
           <img
             className="portrait-photo"
-            src="/images/veronika-portrait.png"
+            src="/images/veronika-portrait.webp"
             alt="Portrait of Veronika Petrukhina"
+            width="900"
+            height="900"
           />
           <div className="floating-note">
             <Sparkles size={18} />

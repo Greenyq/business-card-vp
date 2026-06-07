@@ -212,7 +212,7 @@ h2 em {
       rgba(243, 238, 232, 0.5) 66%,
       rgba(243, 238, 232, 0.14) 100%
     ),
-    url("/images/learning-art.png") center / cover no-repeat;
+    url("/images/learning-art.webp") center / cover no-repeat;
 }
 
 .hero::before {
@@ -938,7 +938,7 @@ h2 em {
       "stats";
     background:
       linear-gradient(180deg, rgba(243, 238, 232, 0.94), rgba(243, 238, 232, 0.58)),
-      url("/images/learning-art.png") 64% center / cover no-repeat;
+      url("/images/learning-art.webp") 64% center / cover no-repeat;
   }
 
   .hero-copy {
